@@ -32,3 +32,5 @@ I am pleased to share that I have just completed building a Sales & Financial Pe
 
  ✔ Developed a structured, problem-solving mindset for analytical challenges
 
+ If anyone is interested in obtaining Excel files related to this project can contact me - https://www.linkedin.com/in/rishabhchawla894
+
